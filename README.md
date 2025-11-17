@@ -121,7 +121,7 @@ No extra installation or setup needed.
 
 # 🔗 **Repository Link**
 👉 Add your GitHub repo link here:  
-`https://github.com/your-username/your-repo-name`
+` https://github.com/SatyanarayanaG2908/The-Developers-Arena-Internship-Week-1 `
 
 ---
 
